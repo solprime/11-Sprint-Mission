@@ -1,5 +1,4 @@
 @import "global.css";
-@import "global.css";
 
 :root {
   --gray900: #111827;
@@ -72,7 +71,6 @@ input::placeholder {
 }
 
 .inputPW {
-  position: relative;
   position: relative;
   display: flex;
   align-items: center;
